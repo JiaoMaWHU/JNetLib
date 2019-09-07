@@ -1,2 +1,2 @@
-# JRPC
-Self-made toy RPC client using C++
+# SimpleNetworkLib
+Multithreaded network library in C++11
