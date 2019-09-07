@@ -1,2 +1,2 @@
 # SimpleNetworkLib
-Multithreaded network library in C++11
+Simple multithreaded network library in C++11
