@@ -1,2 +1,2 @@
 # JThreadPool
-Simple multithreaded network library in C++11
+A simple linux thread pool library in C++11
